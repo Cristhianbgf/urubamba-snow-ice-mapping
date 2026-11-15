@@ -5,8 +5,12 @@ and scored against independent 2020 glacier outlines that are never used for fit
 The study area is a 22 × 14.5 km box of the Cordillera Urubamba (UTM 18S,
 E 808–830 km, N 8530–8544.5 km).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cristhianbgf/urubamba-snow-ice-mapping/blob/main/notebooks/urubamba_nieve_hielo.ipynb)
+
 The full write-up, in Spanish, is the notebook
-[`notebooks/urubamba_nieve_hielo.ipynb`](notebooks/urubamba_nieve_hielo.ipynb).
+[`notebooks/urubamba_nieve_hielo.ipynb`](https://colab.research.google.com/github/Cristhianbgf/urubamba-snow-ice-mapping/blob/main/notebooks/urubamba_nieve_hielo.ipynb).
+In Colab it shows the saved tables and figures without downloading any data; refitting
+needs the inputs described under [Reproduce](#reproduce).
 
 ![Design of the experiment](results/figures/02_diseno_entrenamiento.png)
 
