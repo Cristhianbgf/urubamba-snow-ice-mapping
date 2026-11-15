@@ -1,0 +1,21 @@
+{
+  "mascara_Ensamble_ET.tif": "21bddb025cfdfed6320094e4b2e288052456ac9d078ce5bd17afeb3aa3d37572",
+  "mascara_Ensamble_ET_filtro.tif": "b85fe081a38381f95860527f1664bc88e82d4db64c974040952b0e569288ab00",
+  "mascara_ET_base.tif": "947c47b14cbc3a73c82f1f1154a28aa9314d645dae1ddae57cf05ad40c195cc3",
+  "mascara_ET_base_filtro.tif": "378432a2af6dffe458f3cddd03700eda26c9eaec227cdb64351a7d994d929685",
+  "mascara_ET_base_guiado.tif": "789a0c13e2d2b1aa619f40c6502dd539dd026270c90c46befea226831c8dd9b0",
+  "mascara_ET_prudente.tif": "695c4424f12823552250de6e090e8318bc845490554c6c4cb2057a6e3db97cad",
+  "mascara_ET_prudente_filtro.tif": "49775164a76804ab287d78e1a94aed5bec013a4661eb613661749e1427a0deff",
+  "mascara_ET_prudente_guiado.tif": "a83b3e6e18508e3e1128b172c17f991df9a23c7beeb970377ec08fed871014f0",
+  "mascara_ET_relieve.tif": "5dea75f6112f4cbbe9b5a103577d70c59034fe8c11b7da83370a29d09ee08233",
+  "mascara_ET_relieve_filtro.tif": "54474108c5da4a3af6a77c560f122400d8d6aa9a70e14abbca0d85408be8f244",
+  "mascara_HGB_prudente.tif": "32e2c9c5689660b729553df6d824403905ead8214530e4e22701610043291a19",
+  "mascara_HGB_prudente_filtro.tif": "db8e36e0de6af9aed610bcfa96c9496a4ab15591950b04f47d434b910291c2e6",
+  "mascara_NDSI.tif": "8920ce91113521c849a6177f6ed73a666b617b02ad19cca5f38c80d3b26ca4b8",
+  "mascara_NDSI_filtro.tif": "ca9e9c0911a7d5b28f6e6f5f19ccf59eee05950af37d6fdf17010fb1dbd4d3e0",
+  "puntaje_Ensamble_ET.tif": "b0179890bb9118d9baf1b56f27924912a93093d0424aadb12912db4defc1cd47",
+  "puntaje_ET_base.tif": "ce7a020d031cb4ffbc56b72a9fe7c9e68220c0353af895ba8e0fb042c435bb10",
+  "puntaje_ET_prudente.tif": "720e608bc849233d27defd67ef7e8feaffba98048c34937a478993748a0167a0",
+  "puntaje_ET_relieve.tif": "748f86a0dfecbfb8a7b4fb175b85f92499c8f06178014cea438142a0b83ffe50",
+  "puntaje_HGB_prudente.tif": "f9ff4cc956e3d1acfc274c628662a6be9fc6791ff9e5d354c92d8a996ba3c879"
+}

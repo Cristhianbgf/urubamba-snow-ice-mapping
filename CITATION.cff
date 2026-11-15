@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite it as below."
+title: "Snow and visible-ice mapping in the Cordillera Urubamba with Sentinel-2"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Gamarra
+    given-names: Cristhian
+repository-code: "https://github.com/Cristhianbgf/urubamba-snow-ice-mapping"
+keywords:
+  - glaciers
+  - snow
+  - Sentinel-2
+  - remote sensing
+  - pseudo-labels
+  - Peru
+  - Andes

@@ -1,0 +1,28 @@
+sector,grupo,repeticion,delta_log_loss
+0,Espectro e índices,0,3.006496043792782
+0,Espectro e índices,1,2.9415018971463343
+0,Espectro e índices,2,2.942142507020754
+0,Relieve e iluminación,0,3.904184993146404e-05
+0,Relieve e iluminación,1,1.7216082971207398e-05
+0,Relieve e iluminación,2,5.6323668082151066e-05
+0,Contexto espacial,0,0.003865004510694819
+0,Contexto espacial,1,0.005615883545607782
+0,Contexto espacial,2,0.006256129570120819
+1,Espectro e índices,0,3.437049985060107
+1,Espectro e índices,1,3.5449689026023004
+1,Espectro e índices,2,3.504318294394126
+1,Relieve e iluminación,0,-0.00010303140512121648
+1,Relieve e iluminación,1,-3.811107082025023e-05
+1,Relieve e iluminación,2,-0.00018633309023686085
+1,Contexto espacial,0,0.00022300043887046221
+1,Contexto espacial,1,0.0014552567855676156
+1,Contexto espacial,2,0.0006873641078795579
+2,Espectro e índices,0,1.2226722123982243
+2,Espectro e índices,1,1.2116472903994169
+2,Espectro e índices,2,1.2055126290810683
+2,Relieve e iluminación,0,-7.42444383927687e-06
+2,Relieve e iluminación,1,1.919545040016883e-07
+2,Relieve e iluminación,2,4.6174265849673285e-06
+2,Contexto espacial,0,0.01208678911371538
+2,Contexto espacial,1,0.011372194060137024
+2,Contexto espacial,2,0.012133185525414505

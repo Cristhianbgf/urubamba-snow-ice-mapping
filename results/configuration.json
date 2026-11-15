@@ -1,0 +1,105 @@
+{
+  "SEED": 20261114,
+  "FIT_SCENES": [
+    "S2A_18LZL_20200529_1_L2A",
+    "S2A_18LZL_20200618_0_L2A",
+    "S2A_18LZL_20200718_0_L2A",
+    "S2A_18LZL_20200807_1_L2A"
+  ],
+  "TARGET_SCENE": "S2A_18LZL_20200827_1_L2A",
+  "SECTOR_EDGES": [
+    808000,
+    815000,
+    822500,
+    830000
+  ],
+  "SPATIAL_GAP_M": 500,
+  "SAMPLES_PER_CLASS_AND_DATE": 3500,
+  "INNER_VALIDATION": {
+    "block_px": 150,
+    "modulo": 5,
+    "gap_m": 200,
+    "samples": 1200
+  },
+  "POSITIVE_SEED": {
+    "ndsi_min": 0.55,
+    "red_swir_min": 2.0,
+    "nir_min": 0.15
+  },
+  "NEGATIVE_SEED_BASE": {
+    "ndsi_max": 0.15,
+    "nir_max": 0.08
+  },
+  "NEGATIVE_SEED_PRUDENT": {
+    "ndsi_max": 0.15
+  },
+  "NDSI_THRESHOLD": {
+    "ndsi_min": 0.4,
+    "nir_min": 0.11
+  },
+  "EXTRA_TREES": {
+    "n_estimators": 200,
+    "min_samples_leaf": 5,
+    "max_features": 0.7
+  },
+  "BOOSTING": {
+    "max_iter": 240,
+    "learning_rate": 0.05,
+    "max_leaf_nodes": 15,
+    "min_samples_leaf": 30,
+    "l2_regularization": 1.0
+  },
+  "THRESHOLD": 0.5,
+  "CLEANUP": {
+    "majority_window": 3,
+    "min_component_px": 25
+  },
+  "GUIDED": {
+    "radius_px": 2,
+    "spatial_sigma_px": 1.0,
+    "ndsi_sigma": 0.1,
+    "blend": 0.5
+  },
+  "BOOTSTRAP": {
+    "block_px": 50,
+    "draws": 2000
+  },
+  "DEM_GRANULE": "AP_27628_PLR_F6920_RT1",
+  "features_base": [
+    "B02",
+    "B03",
+    "B04",
+    "B08",
+    "B11",
+    "B12",
+    "NDSI",
+    "NDVI",
+    "NDWI",
+    "Elevación",
+    "Pendiente",
+    "NDSI media 3",
+    "NDSI desv. 3"
+  ],
+  "features_full": [
+    "B02",
+    "B03",
+    "B04",
+    "B08",
+    "B11",
+    "B12",
+    "NDSI",
+    "NDVI",
+    "NDWI",
+    "Elevación",
+    "Pendiente",
+    "NDSI media 3",
+    "NDSI desv. 3",
+    "Aspecto seno",
+    "Aspecto coseno",
+    "Incidencia solar",
+    "Rugosidad 3",
+    "NDGI",
+    "NDSI media 7",
+    "NDSI desv. 7"
+  ]
+}
